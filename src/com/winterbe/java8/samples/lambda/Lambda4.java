@@ -25,7 +25,7 @@ public class Lambda4 {
 
         String[] array = new String[1];
         Lambda2.Converter<Integer, String> stringConverter3 = (from) -> {
-            array[0] = "Hi there";
+            array[0] = "Hi there!";
             return String.valueOf(from);
         };
 
