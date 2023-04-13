@@ -30,7 +30,6 @@ public class Annotations1 {
     @Hint("hint1")
     @Hint("hint2")
     class Person {
-
     }
 
     public static void main(String[] args) {
